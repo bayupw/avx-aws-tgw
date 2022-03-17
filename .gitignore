@@ -1,0 +1,10 @@
+env.tf
+terraform.tfvars
+.terraform/
+.terraform.lock.hcl
+.terraform.tfstate
+.terraform.tfstate*
+terraform.tfstate*
+backup/
+not-provisioned/
+*.pem
